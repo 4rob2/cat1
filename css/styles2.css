@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color: crimson;
+}
+body {
+  background-color: #FAEBD7;
+  text-align: center;
+
+}
+li {
+  list-style: none;
+  line-height: 50px;
+  font-size: 25px;
+}

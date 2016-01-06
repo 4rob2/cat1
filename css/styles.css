@@ -1,0 +1,23 @@
+h1, h2 {
+  color: red;
+  text-align: center;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+p, ul {
+  font-style: normal;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+li {
+  list-style: none;
+  line-height: 50px;
+  font-size: 25px;
+}
+
+body {
+  background-color: #FAEBD7;
+  text-align: center;
+}
