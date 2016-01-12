@@ -1,5 +1,4 @@
 h1, h2 {
-  color: red;
   text-align: center;
   font-weight: 500;
   font-size: 30px;
@@ -18,7 +17,6 @@ li {
 }
 
 body {
-  background-color: #FAEBD7;
   text-align: center;
 }
 
@@ -26,4 +24,12 @@ p.info {
   text-align: center;
   font-size: 23px;
   padding: 0 300px 0 300px;
+}
+
+.dark-theme {
+
+}
+
+.light-theme {
+
 }
